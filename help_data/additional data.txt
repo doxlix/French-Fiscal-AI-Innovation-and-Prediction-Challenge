@@ -1,0 +1,15 @@
+.shp file for map
+https://www.data.gouv.fr/fr/datasets/contours-communes-france-administrative-format-admin-express-avec-arrondissements/
+https://www.data.gouv.fr/fr/datasets/decoupage-administratif-communal-francais-issu-d-openstreetmap/
+
+
+Helps to find communes and other info
+https://fr.wikipedia.org/wiki
+
+Exchange rates frank/euro
+https://www.federalreserve.gov/releases/g5/20021202/
+
+TH drop
+https://www.connexionfrance.com/practical/is-taxe-dhabitation-still-due-for-2019/437221
+
+https://statistiques-locales.insee.fr/#c=home

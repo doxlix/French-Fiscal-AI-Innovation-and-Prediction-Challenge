@@ -1,0 +1,55 @@
+TP removal
+
+The Taxe Professionnelle (TP) was a local business tax in France that existed from 1975 until 2010. Here's an overview of what it was and why it was removed:
+Definition:
+The Taxe Professionnelle was a direct local tax paid by businesses to local authorities (communes, departments, and regions). It was created in 1975 to replace an older tax called "patente".
+Who paid it:
+The tax was due by individuals or legal entities conducting regular business activities in France, with some exceptions like agricultural businesses.
+Calculation:
+Initially, it was based on a company's payroll and the rental value of its assets. After 2002, it was primarily based on the rental value of the company's assets.
+Significance:
+The TP represented about 50% of the tax resources for local authorities.
+Reasons for removal:
+The Taxe Professionnelle was removed for several reasons:
+It was considered to penalize investment and capital-intensive industries.
+It was blamed for the loss of 500,000 industrial jobs over 15 years.
+The tax was complex, leading to high management costs for both businesses and the administration.
+It was seen as a handicap for France in international competition.
+The tax had become increasingly costly for the state due to various capping and reduction mechanisms introduced over time.
+Replacement:
+In 2010, the Taxe Professionnelle was replaced by the Contribution Économique Territoriale (CET), which consists of two components:
+The Cotisation Foncière des Entreprises (CFE), based on property values.
+The Cotisation sur la Valeur Ajoutée des Entreprises (CVAE), based on the added value of the business.
+The removal of the Taxe Professionnelle and its replacement with the CET was intended to reduce the tax burden on businesses, particularly in the industrial sector, and to simplify the local business tax system.
+
+Here's a comparison of the Taxe Professionnelle (TP), Cotisation Foncière des Entreprises (CFE), and Cotisation sur la Valeur Ajoutée des Entreprises (CVAE):
+Historical Context:
+TP: Created in 1975, replaced the "patente" tax, and was abolished in 2010.
+CFE and CVAE: Introduced in 2010 as components of the Contribution Économique Territoriale (CET), which replaced the TP.
+Tax Base:
+TP: Primarily based on the rental value of a company's fixed assets (immobilisations corporelles).
+CFE: Based on the rental value of properties subject to property tax.
+CVAE: Based on the added value produced by the business.
+Calculation Method:
+TP: Tax rate (set by the commune) x Tax base (sum of rental values of assets).
+CFE: Similar to TP, but only on property values.
+CVAE: Calculated based on the company's turnover and added value, with a progressive rate system.
+Scope of Application:
+TP: Applied to all businesses, including those with low turnover.
+CFE: Applies to most businesses, with some exemptions for small enterprises.
+CVAE: Only applies to businesses with a turnover exceeding €500,000.
+Impact on Investment:
+TP: Criticized for penalizing investment in equipment and physical assets.
+CFE: Less impact on investment decisions as it's only based on property.
+CVAE: Designed to be less detrimental to investment, as it's based on value added.
+Local Authority Control:
+TP: Local authorities had significant control over the tax rate.
+CFE: Local authorities still have some control over rates.
+CVAE: Rate is set nationally, giving local authorities less control.
+Economic Impact:
+TP: Blamed for negative effects on employment and competitiveness.
+CFE and CVAE: Designed to be less harmful to employment and more aligned with economic performance.
+Capping Mechanism:
+TP: Had various capping mechanisms that evolved over time.
+CET (CFE + CVAE): Maintains a capping system, limited to a percentage of value added.
+The transition from TP to CFE and CVAE was part of a broader reform aimed at simplifying the tax system, reducing the burden on businesses, and improving France's economic competitiveness.
